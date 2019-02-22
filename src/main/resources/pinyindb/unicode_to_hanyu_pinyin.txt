@@ -4241,7 +4241,7 @@
 5E8F (xu4)
 5E90 (lu2)
 5E91 (wu3)
-5E92 (none0)
+5E92 (zhuang1)
 5E93 (ku4)
 5E94 (ying1,ying4)
 5E95 (di3,de5)
